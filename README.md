@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<center><h2>Contact me 👋</h2></center>
-<center>
+<h2>Contact me 👋</h2>
 <a href="mailto:tealroad@naver.com">
 <img src="https://img.shields.io/badge/tealroad@naver.com-EA4335?style=flat-square&logo=&logoColor=black"/>
 </a>
-</center>
