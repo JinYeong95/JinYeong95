@@ -44,6 +44,9 @@ Here are some ideas to get you started:
  
   
 ### AI
+
+  <img src="https://img.shields.io/badge/Pandas-1E90FF?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-7FFFD4?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
