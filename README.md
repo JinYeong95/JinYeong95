@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <a href="mailto:tealroad@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+ <a href="mailto:tealroad@naver.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=M&logoColor=black"/></a>
