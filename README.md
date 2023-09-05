@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <div align=left><h1>Portfolio 📗</h1></div>
 
-<a href="https://morning-collarbone-330.notion.site/67674077d0674768b38445ddbf3883d1](https://www.notion.so/e5d2adc578814e3297a6b2caf31ddb3b?v=b7d5ae11c43341059ccf70a1e68301ee" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ad398f23424b89a3e8a122bb4f26761f2aa3c97bdb29266e0c80f8d8364d1611/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274466f6c696f2d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/PortFolio-6DB33F?style=for-the-badge&amp;logo=notion&amp;logoColor=black" style="max-width: 100%;">
-  </a>
+[![포트폴리오](https://camo.githubusercontent.com/ad398f23424b89a3e8a122bb4f26761f2aa3c97bdb29266e0c80f8d8364d1611/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274466f6c696f2d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d626c61636b)](https://www.notion.so/e5d2adc578814e3297a6b2caf31ddb3b?v=b7d5ae11c43341059ccf70a1e68301ee)
 <div align=left><h1>💻 Skills</h1></div>
 
 <div align=left> 
