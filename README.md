@@ -58,7 +58,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
   <img src="https://img.shields.io/badge/Notion-b4f5bd?style=for-the-badge&logo=Notion&logoColor=black" style="max-width: 100%;">
-  <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=Git&logoColor=F05032" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&amp;logoColor=white" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/pyCharm-000000?style=for-the-badge&logo=pycharm&amp;logoColor=white" style="max-width: 100%;">
